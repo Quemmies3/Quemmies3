@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Quemmies3
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning front end development 
+- 🌱 I’m a saoftware developer 
 - 💞️ I’m looking to collaborate on website developments.
 - 📫 How to reach me: send a message. 
 
